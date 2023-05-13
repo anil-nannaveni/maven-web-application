@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>icici-bank Releases Nexus Repository</name>
-	      <url>http://3.238.254.135:8081/repository/icicibank-release/</url>
+	      <name>HDFCBANK release Repository</name>
+	      <url>http://3.88.182.103:8081/anil/repository/HDFCBANK-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>icici-bank Snapshot Nexus Repository </name>
-	      <url>http://3.238.254.135:8081/repository/icicibank-snapshot/</url>
+	      <name>HDFCBANK Snapshot Nexus Repository </name>
+	      <url>http://3.88.182.103:8081/anil/repository/HDFCBANK-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
